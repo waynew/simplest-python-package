@@ -1,0 +1,4 @@
+*.sw[a-p]
+*.egg-info/
+env/
+*.pyc
