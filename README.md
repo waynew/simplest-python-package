@@ -27,3 +27,7 @@ Or
 Of course, this assumes that you have `~/.local/bin` on your PATH. Unless
 you're not on Linux, in which case Python put it somewhere else, but I couldn't
 tell you for sure.
+
+Feel free to use this project as a starting point for your Python packages -
+just edit the setup.py, README, and LICENSE files to be useful for whatever
+your purposes are.
