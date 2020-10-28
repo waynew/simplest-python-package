@@ -8,6 +8,9 @@ setup(
         [console_scripts]
         myproj=myproj.__main__:run
     ''', 
+    license="BSD",  # TODO change the license
+    classifiers=[
+    ],
     install_requires=[
     ],
     tests_require=[
